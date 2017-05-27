@@ -1,5 +1,4 @@
-{
-	"noticia": [{
+ [{
 				"tittle": "Simone de Beauvoir",
 				"url": "img/Simone.png",
 				"foto": "Simone de Beauvoir",
@@ -20,4 +19,4 @@
 				"foto": "Simone de Beauvoir",
 				"AutorYFecha": "autor - 25/04/2017",
 				"descripcion": "Flora Tristán fue una escritora, pensadora y feminista francesa fundadora del feminismo moderno. En Francia inició una campaña a favor de la emancipación de la mujer, así como los derechos de los trabajadores y el fin de la pena de muerte.Fue la primera mujer en hablar del socialismo y la lucha de los proletarios.La emancipación de la mujer de 1846 es un texto en el que expone la inferioridad matrimonial del sexo femenino, es considerado un pensamiento moderno feminista.",
-				"descripcionCorta": "Flora Tristán fue una escritora, pensadora y feminista francesa fundadora del feminismo moderno. En Francia inició una campaña a favor de la emancipación de la mujer, así como los derechos de los trabajadores y el ..." }]}
+				"descripcionCorta": "Flora Tristán fue una escritora, pensadora y feminista francesa fundadora del feminismo moderno. En Francia inició una campaña a favor de la emancipación de la mujer, así como los derechos de los trabajadores y el ..." }]
